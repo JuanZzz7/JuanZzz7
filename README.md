@@ -46,24 +46,3 @@ Me interesa especialmente construir aplicaciones que sean **funcionales, manteni
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-## 🚀 Áreas de interés
-
-```text
-Desarrollo Web
-├── Frontend
-│   ├── HTML
-│   ├── CSS
-│   ├── JavaScript
-│   └── React
-│
-├── Backend
-│   ├── Node.js
-│   ├── Express.js
-│   ├── PHP
-│   └── Laravel
-│
-└── Bases de Datos
-    └── MySQL
