@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- ======================= BANNER ======================= -->
 
-<!--
-**JuanZzz7/JuanZzz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./banner.png" alt="Juan David Peña - Software Developer" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<!-- ======================= PRESENTACIÓN ======================= -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hola, soy Juan David Peña 👋</h1>
+
+<p align="center">
+  <strong>Estudiante de Ingeniería de Sistemas y Computación</strong>
+</p>
+
+<p align="center">
+  💻 Desarrollo Web &nbsp; • &nbsp;
+  🚀 Aplicaciones &nbsp; • &nbsp;
+  🗄️ Bases de Datos &nbsp; • &nbsp;
+  🧠 Lógica y Algoritmos
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante de **Ingeniería de Sistemas y Computación**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
+
+Actualmente estoy fortaleciendo mis conocimientos en **desarrollo web, backend, bases de datos y arquitectura de aplicaciones**, mientras desarrollo proyectos académicos y personales que me permiten llevar la teoría a la práctica.
+
+Me interesa especialmente construir aplicaciones que sean **funcionales, mantenibles y útiles para resolver problemas reales**.
+
+- 🎓 Ingeniería de Sistemas y Computación
+- 💻 Enfoque en desarrollo web
+- 🔧 Desarrollo de proyectos académicos y personales
+- 🗄️ Interés en backend y bases de datos
+- 📚 Aprendizaje continuo de nuevas tecnologías
+- 🚀 Siempre buscando mejorar mis habilidades como desarrollador
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Áreas de interés
+
+```text
+Desarrollo Web
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   └── React
+│
+├── Backend
+│   ├── Node.js
+│   ├── Express.js
+│   ├── PHP
+│   └── Laravel
+│
+└── Bases de Datos
+    └── MySQL
