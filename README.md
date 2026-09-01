@@ -4,24 +4,24 @@
   <img src="./banner.png" alt="Juan David Peña - Software Developer" width="100%">
 </p>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy estudiante de **Ingeniería de Sistemas y Computación**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
+I am a **Systems and Computer Engineering student** passionate about software development and creating technological solutions.
 
-Actualmente estoy fortaleciendo mis conocimientos en **desarrollo web, backend, bases de datos y arquitectura de aplicaciones**, mientras desarrollo proyectos académicos y personales que me permiten llevar la teoría a la práctica.
+I am currently strengthening my skills in **web development, backend development, databases, and application architecture**, while working on academic and personal projects that allow me to put theory into practice.
 
-Me interesa especialmente construir aplicaciones que sean **funcionales, mantenibles y útiles para resolver problemas reales**.
+I am especially interested in building applications that are **functional, maintainable, and useful for solving real-world problems**.
 
-- 🎓 Ingeniería de Sistemas y Computación
-- 💻 Enfoque en desarrollo web
-- 🔧 Desarrollo de proyectos académicos y personales
-- 🗄️ Interés en backend y bases de datos
-- 📚 Aprendizaje continuo de nuevas tecnologías
-- 🚀 Siempre buscando mejorar mis habilidades como desarrollador
+- 🎓 Systems and Computer Engineering student
+- 💻 Focused on web development
+- 🔧 Developing academic and personal projects
+- 🗄️ Interested in backend development and databases
+- 📚 Continuously learning new technologies
+- 🚀 Always looking to improve my development skills
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 ### Frontend
 
@@ -35,13 +35,13 @@ Me interesa especialmente construir aplicaciones que sean **funcionales, manteni
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
-### Bases de datos
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Herramientas
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
