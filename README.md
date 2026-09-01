@@ -4,23 +4,6 @@
   <img src="./banner.png" alt="Juan David Peña - Software Developer" width="100%">
 </p>
 
-<!-- ======================= PRESENTACIÓN ======================= -->
-
-<h1 align="center">Hola, soy Juan David Peña 👋</h1>
-
-<p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas y Computación</strong>
-</p>
-
-<p align="center">
-  💻 Desarrollo Web &nbsp; • &nbsp;
-  🚀 Aplicaciones &nbsp; • &nbsp;
-  🗄️ Bases de Datos &nbsp; • &nbsp;
-  🧠 Lógica y Algoritmos
-</p>
-
----
-
 ## 👨‍💻 Sobre mí
 
 Soy estudiante de **Ingeniería de Sistemas y Computación**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
