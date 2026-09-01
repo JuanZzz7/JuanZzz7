@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="./banner.png" alt="Juan David Peña - Software Developer" width="100%">
+  <img src="./banner2.png" alt="Juan David Peña - Software Developer" width="100%">
 </p>
 
 ## 👨‍💻 About Me
